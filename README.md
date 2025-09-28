@@ -42,3 +42,11 @@ The architecture ensures **high availability, fault tolerance, and optimal traff
 5. **Traffic Manager**
    - Configured **Traffic Manager** to distribute traffic between both Application Gateways.  
    - Validated failover and load distribution.  
+
+---
+
+## ✅ Outcomes
+- Built a **multi-region website deployment** on Azure.  
+- Ensured **high availability** with Traffic Manager and Application Gateway.  
+- Configured **Blob Storage** for file uploads and static error pages.  
+- Improved performance and reliability across regions.
