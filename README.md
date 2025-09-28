@@ -42,5 +42,3 @@ The architecture ensures **high availability, fault tolerance, and optimal traff
 5. **Traffic Manager**
    - Configured **Traffic Manager** to distribute traffic between both Application Gateways.  
    - Validated failover and load distribution.  
-
-## 📂 Repository Structure
