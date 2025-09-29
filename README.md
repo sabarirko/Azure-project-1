@@ -9,8 +9,7 @@ The architecture ensures **high availability, fault tolerance, and optimal traff
 ## 🛠️ Tools & Technologies
 - **Cloud Services:** Azure VMs, VNet, Application Gateway, Traffic Manager, Blob Storage  
 - **Networking:** VNet Peering, Load Balancing  
-- **Scripts:** Bash, Python  
-- **Source Code:** [azcloudberg/azproject](https://github.com/azcloudberg/azproject)  
+- **Scripts:** Bash, Python   
 
 ---
 
