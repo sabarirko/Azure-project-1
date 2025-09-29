@@ -15,8 +15,7 @@ The architecture ensures **high availability, fault tolerance, and optimal traff
 ---
 
 ## ⚙️ Architecture
-![Architecture Diagram](screenshots/architecture.png)  
-*(Replace with your Azure Multi-Region architecture diagram)*  
+![Architecture Diagram](screenshots/azure_multi_region_webapp.png)  
 
 ---
 
